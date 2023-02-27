@@ -1,5 +1,5 @@
 # ![diana gambone header](https://github.com/dgambone3/dgambone3/blob/main/header-picture.png)
-## 🪨 Former Geologist &nbsp; 📊 Future Data Scientist &nbsp; 📚 Graduate student &nbsp; 👩‍💻 Novice programmer
+## &nbsp; 🪨 Former Geologist &nbsp; 📊 Future Data Scientist &nbsp; 📚 Graduate student &nbsp;
 
 #### 👋 Welcome to my GitHub!   
 <p >
