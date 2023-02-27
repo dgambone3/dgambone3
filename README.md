@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Its all about the statistics
----
 ![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgambone3&show_icons=true&theme=vue-dark)
 
 ### Lets stay in touch
-💼    [LinkedIn](https://www.linkedin.com/in/dgambone/)
-
-📧    [Email](mailto:dgambone2@student.gsu.com)
+💼    [LinkedIn](https://www.linkedin.com/in/dgambone/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧    [Email](mailto:dgambone2@student.gsu.com)
