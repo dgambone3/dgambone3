@@ -3,10 +3,13 @@
 ### 👋 Welcome to my GitHub!   
 
 <p >
-  Quick facts about me: <br>
   🪨 Former Geologist<br>
-  👩‍💻 Future Data Scientist<br>
-  📚 Graduate student at Georgia State
+  📊 Future Data Scientist<br>
+  📚 Graduate student <br>
+  👩‍💻 Novice coder <br>
+  🥖 Hobbist baker
+  
+  
   
 </p>
 
