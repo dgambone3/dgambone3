@@ -1,16 +1,14 @@
 # ![diana gambone header](https://github.com/dgambone3/dgambone3/blob/main/header-picture.png)
 
-### 👋 Welcome to my GitHub!   
-
+## 👋 Welcome to my GitHub!   
+#### About me:
 <p >
   🪨 Former Geologist<br>
   📊 Future Data Scientist<br>
   📚 Graduate student <br>
   👩‍💻 Novice coder <br>
   🥖 Hobbist baker
-  
-  
-  
+
 </p>
 
 
