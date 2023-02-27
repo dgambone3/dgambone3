@@ -1,8 +1,9 @@
+# ![diana gambone header](https://github.com/dgambone3/dgambone3/blob/main/diana-logo.png)
 ### Hi there 👋
 
 <!--
 **dgambone3/dgambone3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# [!(https://raw.githubusercontent.com/dgambone3/dgambone3/blob/main/hi-im-diana-logo.png)]
+
 
 Here are some ideas to get you started:
 
