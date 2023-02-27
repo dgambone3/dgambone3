@@ -2,6 +2,7 @@
 
 <!--
 **dgambone3/dgambone3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](https://github.com/dgambone3/dgambone3/blob/main/hi-im-diana-logo.png?raw=true)
 
 Here are some ideas to get you started:
 
