@@ -3,27 +3,17 @@
 
 #### 👋 Welcome to my GitHub!   
 <p >
-
+I'm currently a graduate student at Georgia State University pursuing Data Science and Analytics focusing on Big Data and Machine Learning! I also have an undergraduate degree from Georgia Southern University in Geology, and had worked in the environmental field for the past few years focusing mostly on water quality. A few twists and turns later I found myself exploring the big, expanding world of data, and jumped right in! In my repos you can find a few of my past projects, but expect to see some more exciting things on here soon! 😄
 </p>
 
+### How I code:
+🐍 python <br>
+📝 SQL <br>
+🪐 jupyter <br>
+☕ java <br>
 
-<!--
-**dgambone3/dgambone3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Its all about the statistics
+### Its all about the statistics, so here's mine:
 ![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgambone3&show_icons=true&theme=vue-dark)
 
-### Lets stay in touch
-💼    [LinkedIn](https://www.linkedin.com/in/dgambone/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧    [Email](mailto:dgambone2@student.gsu.com)
+## Lets stay in touch
+💼 [LinkedIn](https://www.linkedin.com/in/dgambone/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📧 [Email](mailto:dgambone2@student.gsu.com)
